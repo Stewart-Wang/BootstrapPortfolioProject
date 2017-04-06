@@ -13,7 +13,11 @@
     Previous project placeholder begins
   -->
   <nav class="navbar">
-  	<a class="navbar-brand">Stewart Wang</a>
+  	<a href='/' class='navbar-brand'>Stewart Wang</a>
+  	<ul>
+  		<li class='nav nav-tabs'><a href='/'>Home</a></li>
+    	<li class='nav nav-tabs'><a href='/'>About</a></li>
+    </ul>
   </nav>
   <div class="header">
     <h1>Morgan McCircuit</h1>
